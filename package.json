@@ -1,0 +1,26 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "solutions for Project Euler's problems in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitkumarsahni/project-euler.git"
+  },
+  "keywords": [
+    "project-euler",
+    "js",
+    "coding",
+    "practice",
+    "nodeJS"
+  ],
+  "author": "sahni.mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitkumarsahni/project-euler/issues"
+  },
+  "homepage": "https://github.com/mohitkumarsahni/project-euler#readme"
+}
