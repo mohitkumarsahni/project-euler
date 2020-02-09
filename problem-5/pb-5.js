@@ -16,4 +16,4 @@ function arrLCM(n){
     return allLCM;
 }
 
-console.log(arrLCM(process.argv[2]));
+console.log(arrLCM(10));
